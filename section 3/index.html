@@ -1,9 +1,9 @@
 <!doctype html>
-<html ng-app>
+<html ng-app="customersApp">
   <head>
     <title>Iterating over Data</title>
   </head>
-  <body ng-controller="CustomersController as ctrl">
+  <body ng-controller="CustomersController">
     <h2>Customers</h2>
     Filter: <input type="text" ng-model="customerFilter.name" />
     <br/><br/>
@@ -14,7 +14,7 @@
         <th ng-click="doSort('orderTotal')">Order Total</th>
         <th ng-click="doSort('joined')">Joined</th>
       </tr>
-      <tr ng-repeat="customer in ctrl.customers | filter:customerFilter | orderBy:sortBy:reverse">
+      <tr ng-repeat="customer in customers | filter:customerFilter | orderBy:sortBy:reverse">
         <td>{{customer.name}}</td>
         <td>{{customer.city | uppercase}}</td>
         <td>{{customer.orderTotal | currency}}</td>
@@ -22,8 +22,9 @@
       </tr>
     </table>
     <br/>
-    <span>Total customers: {{ctrl.customers.length}}</span>
+    <span>Total customers: {{customers.length}}</span>
     <script src="angular.js"></script>
-    <script src="app/controllers/customersControllerWithAs.js"></script>
+    <script src="app/app.js"></script>
+    <script src="app/controllers/customersController.js"></script>
   </body>
 </html>
