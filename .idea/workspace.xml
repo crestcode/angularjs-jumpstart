@@ -4,12 +4,12 @@
     <list default="true" id="c799f317-3d29-4744-b4e4-f07e8320d13d" name="Default" comment="" />
     <ignored path="angularjs.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399298649516" ignored="false" />
+    <file path="/index.html" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399418479746" ignored="false" />
     <file path="/Dummy.txt" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399166602564" ignored="false" />
     <file path="/README.rdoc" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399166650155" ignored="false" />
     <file path="$PROJECT_DIR$/../qbwc_mu/README.rdoc" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399166654321" ignored="false" />
     <file path="/customersController.js" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399298526964" ignored="false" />
-    <file path="/app.js" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399298206963" ignored="false" />
+    <file path="/app.js" changelist="c799f317-3d29-4744-b4e4-f07e8320d13d" time="1399418410780" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +47,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customersController.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="customersController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section 3/app/controllers/customersController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="32" selection-start="539" selection-end="539" vertical-scroll-proportion="0.28125">
+            <state line="12" column="32" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/section 4/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="44" selection-start="335" selection-end="335" vertical-scroll-proportion="0.25267994">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customers.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section 4/app/views/customers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="50" selection-start="654" selection-end="654" vertical-scroll-proportion="-11.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section 4/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="38" selection-start="223" selection-end="223" vertical-scroll-proportion="-6.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-route.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section 4/scripts/angular-route.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="926" column="27" selection-start="39732" selection-end="39732" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customersController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section 4/app/controllers/customersController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,12 +117,16 @@
         <option value="$PROJECT_DIR$/section 3/app/app.js" />
         <option value="$PROJECT_DIR$/section 3/app/controllers/customersController.js" />
         <option value="$PROJECT_DIR$/section 3/index.html" />
+        <option value="$PROJECT_DIR$/section 4/scripts/angular-route.js" />
+        <option value="$PROJECT_DIR$/section 4/app/views/customers.html" />
+        <option value="$PROJECT_DIR$/section 4/app/app.js" />
+        <option value="$PROJECT_DIR$/section 4/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="61" />
+    <option name="x" value="48" />
+    <option name="y" value="81" />
     <option name="width" value="1580" />
     <option name="height" value="778" />
   </component>
@@ -136,7 +185,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="section 3" />
+              <option name="myItemId" value="section 4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,7 +199,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="section 3" />
+              <option name="myItemId" value="section 4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section 4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -168,7 +235,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="section 3" />
+              <option name="myItemId" value="section 4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section 4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -177,6 +266,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section 3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -222,8 +325,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/section 4" />
       <recent name="$PROJECT_DIR$/section 3" />
       <recent name="$PROJECT_DIR$/section 2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/section 4/scripts" />
     </key>
   </component>
   <component name="RunManager">
@@ -302,7 +409,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="61" width="1580" height="778" extended-state="0" />
+    <frame x="48" y="81" width="1580" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -436,7 +543,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/section 3/app/controllers/customersController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="32" selection-start="539" selection-end="539" vertical-scroll-proportion="0.28125">
+        <state line="12" column="32" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section 4/scripts/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section 4/app/controllers/customersController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section 4/app/views/customers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="50" selection-start="654" selection-end="654" vertical-scroll-proportion="-11.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section 4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="223" selection-end="223" vertical-scroll-proportion="-6.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section 4/scripts/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="926" column="27" selection-start="39732" selection-end="39732" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section 4/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="44" selection-start="335" selection-end="335" vertical-scroll-proportion="0.25267994">
           <folding />
         </state>
       </provider>
